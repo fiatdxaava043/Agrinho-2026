@@ -86,3 +86,19 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+  background: #e8f5e9;
+}
+
+.hero-img {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
